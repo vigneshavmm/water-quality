@@ -64,6 +64,6 @@ streamlit run streamlit_app.py
    
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
 
-7. Acknowledgements:
+6. Acknowledgements:
    
 This project was inspired by the need for improved water quality management and the potential benefits of machine learning in public health.
